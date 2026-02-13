@@ -11,3 +11,17 @@
 Ответ1
 uncrypted.png
 cripted.png
+
+Задание 2
+Установите поддержку LUKS.
+Создайте небольшой раздел, например, 100 Мб.
+Зашифруйте созданный раздел с помощью LUKS.
+В качестве ответа пришлите снимки экрана с поэтапным выполнением задания.
+
+Ответ2
+![install.png](install.png)
+ ![alt text](mount.png)
+ ![alt text](cripted_luks.png)
+![alt text](secret_file.png)
+![alt text](hash.png)
+![alt text](fin.png)
